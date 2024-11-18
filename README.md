@@ -1,6 +1,18 @@
 # FitnessHub
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+The goal of this website is to help you track and achieve your fitness journey. Goals:
+
+Logins:
+-  Google
+-  Apple
+
+Components:
+-  Toolbar
+
+Backend:
+-  Firebase
+-  Fitness APIs from Google Fit
+-  Fitness APIs from Apple. 
 
 ## Development server
 
